@@ -10,8 +10,8 @@ The script can be used with two kind of sources:
 1. A text file from which the Markov chain is built.  
 2. A text file with a pre-generated Markov chain from a previous run.  
 
-The generated text can be output on the console or written to a file,  
-while the Markov chain can be exported to a file and used later.  
+The generated text can be printed on the console or written to a file,  
+while the Markov chain can be exported to a file and used later (the source file is no longer needed).  
 
 Usage examples:  
 
