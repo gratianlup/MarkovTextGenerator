@@ -235,7 +235,7 @@ def main():
         print("Length of output text not specified!")
         return -1
     elif options.console is None and options.output is None:
-        printf("No type of output specified!")
+        print("No type of output specified!")
         return -1
     
     if options.source is not None:
