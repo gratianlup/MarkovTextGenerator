@@ -20,4 +20,4 @@ Usage examples:
 Generates 1000 letters using a 7 letter n-gram and writes the Markov chain to "markov.txt".  
 
     generate_markov_text -r markov.txt -n 1000 -c  
-Reads the a Markov chain from a file and prints 1000 letters on the console.  
+Reads a Markov chain from a file and prints 1000 letters on the console.  
